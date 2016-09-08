@@ -1,0 +1,293 @@
+# Loco Gettext template
+msgid ""
+msgstr ""
+"Project-Id-Version: bbPress Like Button\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-06-07 13:44+0900\n"
+"POT-Revision-Date: Tue Jun 07 2016 13:43:55 GMT+0900 (東京 (標準時))\n"
+"PO-Revision-Date: 2016-06-07 18:15+0900\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Poedit 1.8.8\n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wp-settings-framework.php:275
+msgid "Save Changes"
+msgstr "変更を保存"
+
+#. Name of the plugin
+msgid "bbPress Like Button"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://jordiplana.com/bbpress-like-button-plugin"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Add a Like button in all your posts and replies. Let the users appreciate "
+"others contribution."
+msgstr ""
+
+#. Author of the plugin
+msgid "Jordi Plana"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://jordiplana.com"
+msgstr ""
+
+#: ../class.bbpress_like.php:25
+msgid ""
+"bbPress Like Button needs bbPress installed and activated in order to work."
+msgstr ""
+
+#: ../class.bbpress_like.php:84
+msgid "Likes"
+msgstr "いいねの設定"
+
+#: ../class.bbpress_like.php:85
+msgid "Likes logs"
+msgstr "ログ"
+
+#: ../class.bbpress_like.php:86 ../class. bbpress_like.php:527
+msgid "Likes statistics"
+msgstr "「いいね」の統計"
+
+#: ../class.bbpress_like.php:124
+msgid "Settings"
+msgstr "設定"
+
+#: ../class.bbpress_like.php:258
+msgid "This post was already liked by this user"
+msgstr "この投稿には既に「いいね」をしています"
+
+#: ../class.bbpress_like.php:262
+msgid "An error ocurred: "
+msgstr "エラーが発生しました"
+
+#: ../class.bbpress_like.php:262
+msgid "Liked successfully"
+msgstr "「いいね」しました"
+
+#: ../class.bbpress_like.php:314
+msgid "and"
+msgstr "と"
+
+#: ../class.bbpress_like.php:314
+msgid "more people"
+msgstr "もっと見る"
+
+#: ../class.bbpress_like.php:385 ../json_logs.php:56
+msgid "Edit"
+msgstr "編集"
+
+#: ../class.bbpress_like.php:392 ../json_logs.php:56
+msgid "View"
+msgstr "表示"
+
+#: ../class.bbpress_like.php:392
+msgid "by"
+msgstr "「いいね」したユーザー"
+
+#: ../class.bbpress_like.php:392
+msgid "liked this"
+msgstr "いいねしました"
+
+#: ../class.bbpress_like.php:392 ../class.bbpress_like.php:427 ../class.
+#: bbpress_like.php:463
+msgid "likes"
+msgstr "いいね"
+
+#: ../class.bbpress_like.php:396 ../class.bbpress_like.php:431 ../class.
+#: bbpress_like.php:467 ../class.bbpress_like.php:564
+msgid "Sorry! Nobody has liked any post or reply yet..."
+msgstr "ごめんなさい、まだ「いいね」がありません"
+
+#: ../class.bbpress_like.php:515
+msgid "Likes Options"
+msgstr "「いいね」の設定"
+
+#: ../class.bbpress_like.php:530
+msgid "Most liked users (admins included)"
+msgstr "最も「いいね」されたユーザー（管理者含む）"
+
+#: ../class.bbpress_like.php:531 ../class.bbpress_like.php:535
+msgid "Top 10 most liked users."
+msgstr "最も「いいね」されたユーザートップ１０"
+
+#: ../class.bbpress_like.php:534
+msgid "Most liked users (admins excluded)"
+msgstr "最も「いいね」されたユーザー（管理者を除く）"
+
+#: ../class.bbpress_like.php:538
+msgid "Most liking users"
+msgstr "最も「いいね」しているユーザー"
+
+#: ../class.bbpress_like.php:539
+msgid "Top 10 users who most use Like button."
+msgstr "最も「いいね」しているユーザートップ１０"
+
+#: ../class.bbpress_like.php:542
+msgid "Most liked posts"
+msgstr "最も「いいね」された投稿"
+
+#: ../class.bbpress_like.php:543
+msgid "Top 10 posts liked."
+msgstr "「いいね」された投稿トップ１０"
+
+#: ../class.bbpress_like.php:552
+msgid "Likes Logs"
+msgstr "ログ"
+
+#: ../class.bbpress_like.php:569
+msgid "ID"
+msgstr "ID"
+
+#: ../class.bbpress_like.php:570
+msgid "Date"
+msgstr "日付"
+
+#: ../class.bbpress_like.php:571
+msgid "User"
+msgstr "ユーザー"
+
+#: ../class.bbpress_like.php:572
+msgid "Post/Reply"
+msgstr "投稿／返信"
+
+#: ../class.bbpress_like.php:573
+msgid "Action"
+msgstr "動作"
+
+#: ../class.bbpress_like.php:574
+msgid "Delete like"
+msgstr "「いいね」を削除"
+
+#: ../settings/settings-bbpl.php:8
+msgid "General Settings"
+msgstr "基本設定"
+
+#: ../settings/settings-bbpl.php:9
+msgid "Here you can adjust the plugin settings."
+msgstr "この画面で「いいね」に関する設定を行うことができます"
+
+#: ../settings/settings-bbpl.php:14
+msgid "Automatically embed button"
+msgstr "自動的にボタンを表示する"
+
+#: ../settings/settings-bbpl.php:15
+msgid ""
+"The plugin will try to automatically embed the Like Button. You can manually "
+"embed the button calling <strong>bbp_like_button()</strong> function inside "
+"the reply loop."
+msgstr ""
+"このプラグインは自動的に「いいね」ボタンを設置します。手動で設置する場合は返"
+"信ループの中で<strong>bbp_like_button()</strong>を呼び出してください"
+
+#: ../settings/settings-bbpl.php:21
+msgid "Show on BuddyPress activity stream"
+msgstr "バディのアクティビティストリームに表示"
+
+#: ../settings/settings-bbpl.php:22
+msgid ""
+"If BuddyPress is enabled and this option is checked it will show an entry on "
+"BuddyPress activity stream every time a user clicks on the like button."
+msgstr ""
+"バディが有効になっていると、このオプションがチェックされている場合は、ユーザ"
+"のようなボタンをクリックするたびに、バディ・アクティビティ・ストリーム上のエ"
+"ントリが表示されます。"
+
+#: ../settings/settings-bbpl.php:28
+msgid "Show button label"
+msgstr "ボタンラベルを表示"
+
+#: ../settings/settings-bbpl.php:29
+msgid "If checked the plugin will show a text next to the icon."
+msgstr "チェックした場合、プラグインは、アイコンの横にテキストを表示します。"
+
+#: ../settings/settings-bbpl.php:35
+msgid "Show number of likes"
+msgstr "「いいね」された数を表示"
+
+#: ../settings/settings-bbpl.php:36
+msgid "Show the number of likes next to the button."
+msgstr "ボタンの横に「いいね」の数を表示します。"
+
+#: ../settings/settings-bbpl.php:42
+msgid "Show tooltip"
+msgstr "ポップアップ表示"
+
+#: ../settings/settings-bbpl.php:43
+msgid "Show tooltip, with people who liked, on shortcode lists output."
+msgstr ""
+"ショートコードリストを出力し、だれが「いいね」したかを吹き出し表示します"
+
+#: ../settings/settings-bbpl.php:51
+msgid "Label Settings"
+msgstr "ラベル設定"
+
+#: ../settings/settings-bbpl.php:52
+msgid ""
+"Adjust the labels used on the frontend. <br/>If you want to change all the "
+"other labels the plugin uses, you can do it using Poedit with the source "
+"catalog provided. <a href=\"http://jordiplana.com/translate-wordpress-plugin-"
+"theme-language\" target=\"_blank\">Read detailed instructions</a>"
+msgstr ""
+"フロントエンドで使うラベルの調整をします。<br/>プラグインが使用する他のすべて"
+"のラベルを変更したい場合は、提供元のカタログとpoeditを使用します。<a href="
+"\"http://jordiplana.com/translate-wordpress-plugin-theme-language\" target="
+"\"_blank\">詳細な手順を読む</a>"
+
+#: ../settings/settings-bbpl.php:57
+msgid "Like button, before click"
+msgstr "クリック前のポップアップ文"
+
+#: ../settings/settings-bbpl.php:58 ../settings/settings-bbpl.php:65
+msgid ""
+"It will only show this label if <strong>Show button label</strong> option is "
+"enabled."
+msgstr ""
+"<strong>ボタンラベルの表示</ strong>]オプションが有効になっている場合にのみ、"
+"このラベルが表示されます。"
+
+#: ../settings/settings-bbpl.php:60
+msgid "Like this"
+msgstr "「いいね」する"
+
+#: ../settings/settings-bbpl.php:64
+msgid "Like button, after click"
+msgstr "クリック後のポップアップ文"
+
+#: ../settings/settings-bbpl.php:67
+msgid "You liked this"
+msgstr "「いいね」しました"
+
+#: ../settings/settings-bbpl.php:71
+msgid "BuddyPress activity stream message"
+msgstr "BuddyPressのアクティビティストリームメッセージ"
+
+#: ../settings/settings-bbpl.php:72
+#, php-format
+msgid ""
+"Placeholders<ul><li>%%USERNAME%% - Public name of the user</li><li>%%TOPIC%% "
+"- Title of the topic where the like happened</li><li>%%FORUM%% - Title of "
+"the parent forum of the topic</li></ul><br/>It will only show this label if "
+"<strong>Show on BuddyPress activity stream</strong> option is enabled."
+msgstr ""
+
+#: ../settings/settings-bbpl.php:74
+msgid "%%USERNAME%% likes a reply on %%TOPIC%%"
+msgstr ""
